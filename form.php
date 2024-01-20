@@ -1,7 +1,5 @@
 <?php 
-echo "Hola Mundo";
-echo "Hola Mario";
-echo "Hola Saul";
-echo "Hola Carlo";
-echo "Hola Daniela";
+echo "Hola 1";
+echo "Hola 2";
+
 ?>
